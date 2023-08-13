@@ -462,6 +462,13 @@ body { background: var(--white); }
   gap: 10px;
 }
 
+.button-group {
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
 
 
 
@@ -731,6 +738,7 @@ footer .logo { margin-bottom: 25px; }
     max-width: 300px;
     margin-inline: auto;
   }
+
 
 }
 
