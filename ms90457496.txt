@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "atma-ai.com",
+  "Id": "537c5fb5-7b6b-44ac-a989-52eaa2d764c9"
+}
